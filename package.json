@@ -1,5 +1,5 @@
 {
-  "name": "tienda web",
+  "name": "donde-la-chiky",
   "packageManager": "yarn@4.10.3",
   "scripts": {
     "dev": "next dev",
