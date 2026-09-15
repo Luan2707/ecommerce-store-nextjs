@@ -1348,6 +1348,23 @@ __metadata:
   languageName: node
   linkType: hard
 
+"donde-la-chiky@workspace:.":
+  version: 0.0.0-use.local
+  resolution: "donde-la-chiky@workspace:."
+  dependencies:
+    "@supabase/supabase-js": "npm:^2.116.0"
+    autoprefixer: "npm:10.4.20"
+    eslint: "npm:8.57.1"
+    eslint-config-next: "npm:14.2.33"
+    lucide-react: "npm:^1.43.0"
+    next: "npm:14.2.33"
+    postcss: "npm:8.4.49"
+    react: "npm:18.3.1"
+    react-dom: "npm:18.3.1"
+    tailwindcss: "npm:3.4.17"
+  languageName: unknown
+  linkType: soft
+
 "dunder-proto@npm:^1.0.0, dunder-proto@npm:^1.0.1":
   version: 1.0.1
   resolution: "dunder-proto@npm:1.0.1"
@@ -4020,23 +4037,6 @@ __metadata:
   checksum: 10c0/f375aeb2b05c100a456a30bc3ed07ef03a39cbdefe02e0403fb714b8c7e57eeaad1a2f5c4ecfb9ce554ce3db9c2b024eba144843cd9e344566d9fcee73b04767
   languageName: node
   linkType: hard
-
-"tienda web@workspace:.":
-  version: 0.0.0-use.local
-  resolution: "tienda web@workspace:."
-  dependencies:
-    "@supabase/supabase-js": "npm:^2.116.0"
-    autoprefixer: "npm:10.4.20"
-    eslint: "npm:8.57.1"
-    eslint-config-next: "npm:14.2.33"
-    lucide-react: "npm:^1.43.0"
-    next: "npm:14.2.33"
-    postcss: "npm:8.4.49"
-    react: "npm:18.3.1"
-    react-dom: "npm:18.3.1"
-    tailwindcss: "npm:3.4.17"
-  languageName: unknown
-  linkType: soft
 
 "tinyglobby@npm:^0.2.11, tinyglobby@npm:^0.2.12, tinyglobby@npm:^0.2.13, tinyglobby@npm:^0.2.15":
   version: 0.2.17
